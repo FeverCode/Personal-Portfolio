@@ -6,6 +6,10 @@
 }
 
 ion-icon {
-    font-size: 40px;
+    font-size: 15px;
     color: black;
+}
+
+.twitter ion-icon, .github ion-icon, .linkedin ion-icon, .reddit ion-icon  {
+    font-size: 40px;
 }
