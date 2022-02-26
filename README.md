@@ -20,7 +20,7 @@
 [Personal Portiflio]()
 
 ## Installation
-In terminal `https://github.com/FeverCode/Gedion-Onsongo-FeverCode-Personal-Portfolio ` to your desired local folder
+In terminal `git clone` `https://github.com/FeverCode/Gedion-Onsongo-FeverCode-Personal-Portfolio ` to your desired local folder
 
 ## Dependecies
 
