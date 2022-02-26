@@ -248,7 +248,7 @@ body::before {
 
 /* Mobile Navigation */
 
-/* .mobile-nav-toggle {
+.mobile-nav-toggle {
     color: #fff;
     font-size: 28px;
     cursor: pointer;
@@ -314,12 +314,14 @@ body::before {
 .navbar-mobile a:focus {
     font-size: 16px;
     position: relative;
-} */
+}
 
 /* End Mobile nav */
 
 
-/* @media (max-width: 768px) {
+/* Section */
+
+@media (max-width: 768px) {
   section {
     top: 120px;
   }
@@ -355,50 +357,6 @@ body::before {
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
   color: #fff;
-} */
-
-
-/* Section */
-
-@media (max-width: 768px) {
-    section {
-        top: 120px;
-    }
-
-    section.section-show {
-        top: 80px;
-    }
-}
-
-.section-title h2 {
-    font-size: 14px;
-    font-weight: 500;
-    padding: 0;
-    line-height: 1px;
-    margin: 0 0 20px 0;
-    letter-spacing: 2px;
-    text-transform: uppercase;
-    color: #aaaaaa;
-    font-family: "Poppins", sans-serif;
-}
-
-.section-title h2::after {
-    content: "";
-    width: 120px;
-    height: 1px;
-    display: inline-block;
-    background: aqua;
-    margin: 4px 10px;
-}
-
-.section-title p {
-    margin: 0;
-    margin: -15px 0 15px 0;
-    font-size: 36px;
-    font-weight: 700;
-    text-transform: uppercase;
-    font-family: "Poppins", sans-serif;
-    color: #fff;
 }
 
 /*About*/
