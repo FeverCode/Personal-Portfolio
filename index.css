@@ -11,7 +11,22 @@ body {
     font-family: 'Montserrat', sans-serif ;
     background-color: #040404;
     color: #fff;
+    position: relative;
+    
 }
+body::before {
+    content: "";
+    position: fixed;
+    background: #040404 url("https://user-images.githubusercontent.com/66039545/155833662-d5e7121e-4ee3-40a4-aa1b-575cef5a06a1.jpg") top right no-repeat;
+    background-size: cover;
+    left: 0;
+    right: 0;
+    top: 0;
+    height: 100vh;
+    z-index: -1;
+    opacity: 0.1;
+}
+
 
 ion-icon {
     font-size: 20px;
