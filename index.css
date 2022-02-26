@@ -10,6 +10,6 @@ ion-icon {
     color: black;
 }
 
-.twitter ion-icon, .github ion-icon, .linkedin ion-icon, .reddit ion-icon  {
+.twitter ion-icon, .github ion-icon, .linkedin ion-icon, .reddit ion-icon, .facebook ion-icon, .instagram ion-icon {
     font-size: 40px;
 }
