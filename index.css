@@ -70,6 +70,10 @@ body::before {
     overflow-y: auto;
 }
 
+ h1 span {
+    color: aqua;
+}
+
 #header * {
     transition: ease-in-out 0.3s;
 }
