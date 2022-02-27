@@ -13,7 +13,7 @@
 - [Licence](#licence)
 - [Authors Info](author-Info)
 
-![Screenshot]()
+![Screenshot](https://github.com/FeverCode/Gedion-Onsongo-FeverCode-Personal-Portfolio/blob/main/screenshot1.png)
 
 ## Description
 
