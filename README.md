@@ -21,7 +21,7 @@
 
 <P>Below is the live link to the website</P>
 
-[Personal Portiflio](https://fevercode.github.io/Gedion-Onsongo-FeverCode-Personal-Portfolio/)
+[Personal Portiflio]()
 
 ## Installation
 
