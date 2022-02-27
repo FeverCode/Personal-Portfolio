@@ -13,14 +13,14 @@
 + [Authors Info](author-Info)
 
 
-![Screenshot]()
+![Screenshot](https://github.com/FeverCode/Gedion-Onsongo-FeverCode-Personal-Portfolio/blob/main/Screenshot.png)
 
 ## Description
 <p> Personal portfolio website as a Software Developer student using HTML, custom CSS, and Bootstrap to showcase my projects, web presence, resume, and background.</p>
 
 <P>Below is the live link to the website</P>
 
-[Personal Portiflio](https://fevercode.github.io/Gedion-Onsongo-FeverCode-Personal-Portfolio/)
+[Personal Portiflio]()
 
 ## Installation
 In terminal `git clone` `https://github.com/FeverCode/Gedion-Onsongo-FeverCode-Personal-Portfolio ` to your desired local folder
