@@ -13,7 +13,7 @@
 + [Authors Info](author-Info)
 
 
-![Screenshot](https://github.com/FeverCode/Gedion-Onsongo-FeverCode-Personal-Portfolio/blob/main/Screenshot.png)
+![Screenshot]()
 
 ## Description
 <p> Personal portfolio website as a Software Developer student using HTML, custom CSS, and Bootstrap to showcase my projects, web presence, resume, and background.</p>
