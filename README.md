@@ -1,21 +1,22 @@
-##### By FeverCode 
+##### By FeverCode
+
 ### Personal Portifolio
 
 ## Table of Content
 
-+ [Description](#description)
-+ [Installation](Installation)
-+ [Dependecies](Dependecies)
-+ [Requirements](Requirements)
-+ [Technology Used](#technology-used)
-+ [Reference](#reference)
-+ [Licence](#licence)
-+ [Authors Info](author-Info)
-
+- [Description](#description)
+- [Installation](Installation)
+- [Dependecies](Dependecies)
+- [Requirements](Requirements)
+- [Technology Used](#technology-used)
+- [Reference](#reference)
+- [Licence](#licence)
+- [Authors Info](author-Info)
 
 ![Screenshot](https://github.com/FeverCode/Gedion-Onsongo-FeverCode-Personal-Portfolio/blob/main/Screenshot.png)
 
 ## Description
+
 <p> Personal portfolio website as a Software Developer student using HTML, custom CSS, and Bootstrap to showcase my projects, web presence, resume, and background.</p>
 
 <P>Below is the live link to the website</P>
@@ -23,28 +24,31 @@
 [Personal Portiflio](https://fevercode.github.io/Gedion-Onsongo-FeverCode-Personal-Portfolio/)
 
 ## Installation
+
 In terminal `git clone` `https://github.com/FeverCode/Gedion-Onsongo-FeverCode-Personal-Portfolio ` to your desired local folder
 
 ## Dependecies
 
-To clone this project to your local folder, you will first need to install git. Use this command in your terminal 
+To clone this project to your local folder, you will first need to install git. Use this command in your terminal
 `$ sudo apt install git-all`
 
 ## Requirements
 
-* Either a computer,phone,tablet or an Ipad
+- Either a computer,phone,tablet or an Ipad
 
-* Access to the Internet
+- Access to the Internet
 
 ## Technology Used
-* HTML - which was used to build the general structure of the page.
 
-* CSS - which was used to style the page.
-* Bootstrap - which was used to make the page responsive and visually appealing
-* Javascript - To make the webpage interactive
+- HTML - which was used to build the general structure of the page.
+
+- CSS - which was used to style the page.
+- Bootstrap - which was used to make the page responsive and visually appealing
+- Javascript - To make the webpage interactive
 
 ## Reference
-* HTML & CSS design and build websites by Jon Ducket
+
+- HTML & CSS design and build websites by Jon Ducket
 
 ## Licence
 
@@ -69,7 +73,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
 
 ## Authors Info
 
