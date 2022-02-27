@@ -41,6 +41,7 @@ To clone this project to your local folder, you will first need to install git. 
 
 * CSS - which was used to style the page.
 * Bootstrap - which was used to make the page responsive and visually appealing
+* Javascript - To make the webpage interactive
 
 ## Reference
 * HTML & CSS design and build websites by Jon Ducket
