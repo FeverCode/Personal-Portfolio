@@ -321,6 +321,9 @@ body::before {
     color: aqua;
     line-height: 0;
 }
+.fst-italic span {
+    color: aqua;
+}
 
 .about-me .content p:last-child {
     margin-bottom: 0;
