@@ -13,6 +13,12 @@ body {
     color: #fff;
     position: relative;
     font-size: medium;
+    overflow: -moz-scrollbars-vertical;
+    overflow-x: hidden;
+    overflow-y: auto;
+
+  
+
 
 }
 
