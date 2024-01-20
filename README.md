@@ -22,7 +22,7 @@
 
 <P>Below is the live link to the website</P>
 
-[Personal Portfolio](https://fevercode.github.io/Gedion-Onsongo-FeverCode-Personal-Portfolio/)
+[Personal Portfolio](https://gediononsongo.me/)
 
 ## Installation
 
