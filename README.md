@@ -1,6 +1,7 @@
 ##### By FeverCode
 
-### Personal Portifolio
+### Personal Portfolio
+
 
 ## Table of Content
 
@@ -21,7 +22,7 @@
 
 <P>Below is the live link to the website</P>
 
-[Personal Portiflio](https://fevercode.github.io/Gedion-Onsongo-FeverCode-Personal-Portfolio/)
+[Personal Portfolio](https://gediononsongo.me/)
 
 ## Installation
 
